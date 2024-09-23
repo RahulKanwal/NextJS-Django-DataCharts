@@ -32,7 +32,7 @@ Install dependencies
 Start the server for NextJS project
 
 ```bash
-  npm run start
+  npm run dev
 ```
 
 Start the server for Django API project
